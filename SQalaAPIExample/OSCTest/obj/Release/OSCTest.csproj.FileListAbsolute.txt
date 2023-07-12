@@ -1,0 +1,14 @@
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\OSCTest\bin\Release\OSCTest.dll
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\OSCTest\bin\Release\OSCTest.pdb
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\OSCTest\bin\Release\HEADacoustics.API.SQala.dll
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\OSCTest\bin\Release\SharpOSC.dll
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\OSCTest\bin\Release\SharpOSC.pdb
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\OSCTest\obj\Release\OSCTest.csproj.AssemblyReference.cache
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\OSCTest\obj\Release\StepView.baml
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\OSCTest\obj\Release\StepView.g.cs
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\OSCTest\obj\Release\OSCTest_MarkupCompile.cache
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\OSCTest\obj\Release\OSCTest.g.resources
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\OSCTest\obj\Release\OSCTest.csproj.CoreCompileInputs.cache
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\OSCTest\obj\Release\OSCTest.csproj.CopyComplete
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\OSCTest\obj\Release\OSCTest.dll
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\OSCTest\obj\Release\OSCTest.pdb

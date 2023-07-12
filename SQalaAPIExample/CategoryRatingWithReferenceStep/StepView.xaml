@@ -1,0 +1,38 @@
+﻿<UserControl
+    x:Class="CategoryRatingWithReferenceStep.StepView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:api="clr-namespace:HEADacoustics.API.SQala.UI;assembly=HEADacoustics.API.SQala"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    d:DataContext="{d:DesignInstance {x:Type local:Step}}"
+    d:DesignHeight="600"
+    d:DesignWidth="800"
+    mc:Ignorable="d">
+    <UniformGrid Rows="2">
+        <UniformGrid Columns="3">
+            <api:SoundButton
+                Height="150"
+                OverwriteDisplayName="Reference"
+                Player="{Binding Player}"
+                ShowDisplayName="True"
+                SoundReference="{Binding ReferenceSound}" />
+            <api:SoundButton
+                Height="150"
+                OverwriteDisplayName="Sound"
+                Player="{Binding Player}"
+                ShowDisplayName="True"
+                SoundReference="{Binding CurrentSound}" />
+        </UniformGrid>
+
+        <api:AttributeControl
+            Attribute="{Binding Attribute}"
+            AttributeOrientation="Horizontal"
+            Grid.IsSharedSizeScope="True"
+            IsEnabled="{Binding AttributeEnabled}"
+            Result="{Binding CurrentResult}"
+            ShowCategoryLabels="True"
+            ShowEndValues="false"
+            ShowTitle="true" />
+    </UniformGrid>
+</UserControl>

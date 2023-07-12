@@ -1,0 +1,28 @@
+D:\Repositories\SQala\SQalaAPIExample\Bin\CategoryRatingWithReferenceStep.dll
+D:\Repositories\SQala\SQalaAPIExample\Bin\CategoryRatingWithReferenceStep.pdb
+D:\Repositories\SQala\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\CategoryRatingWithReferenceStep.csprojAssemblyReference.cache
+D:\Repositories\SQala\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\StepView.baml
+D:\Repositories\SQala\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\StepConfigEditorView.g.cs
+D:\Repositories\SQala\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\StepView.g.cs
+D:\Repositories\SQala\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\CategoryRatingWithReferenceStep_MarkupCompile.cache
+D:\Repositories\SQala\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\CategoryRatingWithReferenceStep_MarkupCompile.lref
+D:\Repositories\SQala\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\StepConfigEditorView.baml
+D:\Repositories\SQala\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\CategoryRatingWithReferenceStep.g.resources
+D:\Repositories\SQala\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\CategoryRatingWithReferenceStep.csproj.CoreCompileInputs.cache
+D:\Repositories\SQala\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\CategoryRatingWithReferenceStep.csproj.CopyComplete
+D:\Repositories\SQala\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\CategoryRatingWithReferenceStep.dll
+D:\Repositories\SQala\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\CategoryRatingWithReferenceStep.pdb
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\Bin\CategoryRatingWithReferenceStep.dll
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\Bin\CategoryRatingWithReferenceStep.pdb
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\CategoryRatingWithReferenceStep.csproj.AssemblyReference.cache
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\StepView.baml
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\StepConfigEditorView.g.cs
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\StepView.g.cs
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\CategoryRatingWithReferenceStep_MarkupCompile.cache
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\CategoryRatingWithReferenceStep_MarkupCompile.lref
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\StepConfigEditorView.baml
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\CategoryRatingWithReferenceStep.g.resources
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\CategoryRatingWithReferenceStep.csproj.CoreCompileInputs.cache
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\CategoryRatingWithReferenceStep.csproj.CopyComplete
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\CategoryRatingWithReferenceStep.dll
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\CategoryRatingWithReferenceStep\obj\Debug\CategoryRatingWithReferenceStep.pdb

@@ -1,0 +1,19 @@
+D:\Repositories\SQala\SQalaAPIExample\Bin\HelloWorldStep.dll
+D:\Repositories\SQala\SQalaAPIExample\Bin\HelloWorldStep.pdb
+D:\Repositories\SQala\SQalaAPIExample\HelloWorldStep\obj\Debug\StepView.baml
+D:\Repositories\SQala\SQalaAPIExample\HelloWorldStep\obj\Debug\StepView.g.cs
+D:\Repositories\SQala\SQalaAPIExample\HelloWorldStep\obj\Debug\HelloWorldStep_MarkupCompile.cache
+D:\Repositories\SQala\SQalaAPIExample\HelloWorldStep\obj\Debug\HelloWorldStep.g.resources
+D:\Repositories\SQala\SQalaAPIExample\HelloWorldStep\obj\Debug\HelloWorldStep.csproj.CoreCompileInputs.cache
+D:\Repositories\SQala\SQalaAPIExample\HelloWorldStep\obj\Debug\HelloWorldStep.dll
+D:\Repositories\SQala\SQalaAPIExample\HelloWorldStep\obj\Debug\HelloWorldStep.pdb
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\Bin\HelloWorldStep.dll
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\Bin\HelloWorldStep.pdb
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\HelloWorldStep\obj\Debug\HelloWorldStep.csproj.AssemblyReference.cache
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\HelloWorldStep\obj\Debug\StepView.baml
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\HelloWorldStep\obj\Debug\StepView.g.cs
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\HelloWorldStep\obj\Debug\HelloWorldStep_MarkupCompile.cache
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\HelloWorldStep\obj\Debug\HelloWorldStep.g.resources
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\HelloWorldStep\obj\Debug\HelloWorldStep.csproj.CoreCompileInputs.cache
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\HelloWorldStep\obj\Debug\HelloWorldStep.dll
+D:\jji-tbo\Artemis SUITE\SQalaAPIExample\HelloWorldStep\obj\Debug\HelloWorldStep.pdb

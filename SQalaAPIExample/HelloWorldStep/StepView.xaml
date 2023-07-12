@@ -1,0 +1,24 @@
+﻿<UserControl
+    x:Class="OCSTestStep.StepView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:sQala="clr-namespace:HEADacoustics.API.SQala.UI;assembly=HEADacoustics.API.SQala"
+    d:DesignHeight="450"
+    d:DesignWidth="800"
+    mc:Ignorable="d">
+    <StackPanel VerticalAlignment="Center">
+        <TextBlock
+            Margin="5"
+            FontSize="35"
+            Text="Hello Jury-Testing World"
+            TextAlignment="Center" />
+        <TextBlock
+            Margin="5"
+            FontSize="20"
+            Text="This is a sub-title"
+            TextAlignment="Center" />
+        <sQala:SoundButton Player="{Binding Player}" SoundReference="{Binding Sound}" />
+    </StackPanel>
+</UserControl>

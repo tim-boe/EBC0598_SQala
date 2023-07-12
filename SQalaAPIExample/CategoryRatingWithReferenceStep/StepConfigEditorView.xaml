@@ -1,0 +1,33 @@
+﻿<UserControl
+    x:Class="CategoryRatingWithReferenceStep.StepConfigEditorView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:api="clr-namespace:HEADacoustics.API.SQala.UI;assembly=HEADacoustics.API.SQala"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:CategoryRatingWithReferenceStep"
+    d:DataContext="{d:DesignInstance {x:Type local:StepConfigEditor}}"
+    d:DesignHeight="300"
+    d:DesignWidth="300"
+    mc:Ignorable="d">
+    <StackPanel>
+        <api:LabeledProperty Header="Attribute">
+            <ComboBox ItemsSource="{Binding Attributes}" SelectedItem="{Binding SelectedAttribute}">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <Label Content="{Binding Title}" />
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </api:LabeledProperty>
+        <api:LabeledProperty Header="Reference Sound">
+            <ComboBox ItemsSource="{Binding Sounds}" SelectedItem="{Binding ReferenceSound}">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <Label Content="{Binding DisplayName}" />
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </api:LabeledProperty>
+    </StackPanel>
+</UserControl>
